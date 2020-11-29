@@ -34,4 +34,4 @@ The `codeophon` can list anything that is appropriate on a project basis, howeve
 
 + licensing: [delicense](https://github.com/ly3xqhl8g9/delicense)
 + versioning: [αver](https://github.com/ly3xqhl8g9/alpha-versioning)
-+ encoding: utf-8
++ encoding: [utf-8](https://en.wikipedia.org/wiki/UTF-8)
